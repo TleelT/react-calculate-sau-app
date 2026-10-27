@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { useNavigate } from 'react-router'
 import bmrImg from '../assets/bmr.png'
 
-export default function Bnr() {
+export default function Bmr() {
   const navigate = useNavigate()
 
   const [weight, setWeight] = useState('')

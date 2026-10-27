@@ -53,7 +53,7 @@ export default function Home() {
       {/* ส่วนข้อความลิขสิทธิ์อยู่ด้านล่างการ์ด */}
       <div style={{ textAlign: 'center', paddingBottom: '20px' }}>
         <span style={{ fontSize: '12px', color: '#9ca3af' }}>
-          © 2024 Calculate Tools Online. All rights reserved. Created by Nitipob SAU.
+          © 2024 Calculate Tools Online. All rights reserved. Created by Tle SAU.
         </span>
       </div>
 
